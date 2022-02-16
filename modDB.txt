@@ -4,7 +4,7 @@
     "author": "Brock",
     "imageurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/logo.png",
     "downloadurl": "https://raw.githubusercontent.com/Brock13s/brocks_monbazouModDB/main/testDLL.dll",
-    "dllname": "MonBazou_BepInEx.dll",
+    "dllname": "testDLL.dll",
     "zipname": "",
     "isZip": "false",
     "disabled": "false",
