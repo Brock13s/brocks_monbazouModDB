@@ -9,9 +9,9 @@
     "isZip": "false",
     "disabled": "false",
     "reason": "",
-    "version": "1.2.3",
+    "version": "1.0",
     "gameversion": "0.256",
-    "description": "A cheat menu. The first ever mod made for the game. Default Keybind to open/close the Menu is the 'Insert' button. You can also change this by pressing the 'Open BepInEx Config Folder' Button on the Main page of the Mod Manager and then opening 'com.monbazou.amenofisch.viefacile.cfg' and then changing the Keybind value to whatever button you want!",
-    "releasedate": "12.02.2022"
+    "description": "Test file made by killer bunny",
+    "releasedate": "16.02.2022"
   }
 ]
